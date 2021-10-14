@@ -15,24 +15,21 @@
     "react-router-dom": "^5.2.1",
     "react-scripts": "4.0.3",
     "styled-components": "^5.3.1",
-    "styled-reset": "^4.3.4",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "deploy": "gh-pages -d build",
-    "predeploy": "npm run build"
+    "eject": "react-scripts eject"
   },
+  "homepage": "https://affectionate-sinoussi-1f737f.netlify.app",
   "eslintConfig": {
     "extends": [
       "react-app",
       "react-app/jest"
     ]
   },
-  "homepage": "https://johyeonjun.github.io/nomflix",
   "browserslist": {
     "production": [
       ">0.2%",
