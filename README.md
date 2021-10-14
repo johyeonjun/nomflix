@@ -19,3 +19,6 @@ Learning React and ES6 by building a Movie Discovery App.
 - [x] TV Details
 - [x] Movie Details
 - [ ] Search (Movie, TV)
+
+# Preview:
+Try it on [netlify](https://affectionate-sinoussi-1f737f.netlify.app/#/)
